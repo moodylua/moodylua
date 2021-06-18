@@ -4,7 +4,7 @@
 <p align="center">
     +++
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=culltro&color=PINK&&style=plastic&label=cuu">
+<img src="https://komarev.com/ghpvc/?username=culltro&color=magenta&&style=plastic&label=cuu">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/855177151355813919.png" />
