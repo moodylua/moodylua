@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://media.discordapp.net/attachments/855205644847022131/855504245352431636/lol.png">
 </p>
 <p align="center">
     +++
