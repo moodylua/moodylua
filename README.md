@@ -1,13 +1,13 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/855205644847022131/855504245352431636/lol.png">
+<img src=https://cdn.discordapp.com/attachments/858187060560527401/858208009964617748/ez.png">
 </p>
 <p align="center">
-    +++
+    -_-
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=culltro&color=301934&&style=plastic&label=cuu">
+<img src="https://komarev.com/ghpvc/?username=moodylua&color=301934&&style=plastic&label=lua">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/855177151355813919.png" />
 </p>
 <p align="center">
-doveW
+python enthusiast
