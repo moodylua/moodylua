@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=moodylua&color=301934&&style=plastic&label=lua">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/855177151355813919.png" />
+  <img src="https://discord.c99.nl/widget/theme-6/855177151355813919.png" />
 </p>
 <p align="center">
 python enthusiast
